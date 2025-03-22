@@ -1,8 +1,8 @@
 # Defined Convention
 
 ### 1.Modules
-#### 1.แยก module ตาม domain เช่น auth, users, files
-#### 2.แต่ละ module ประกอบด้วย
+#### 1.1 แยก module ตาม domain เช่น auth, users, files
+#### 2.2 แต่ละ module ประกอบด้วย
 ```
     - Controller
     - Service
