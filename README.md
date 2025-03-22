@@ -12,7 +12,7 @@
 ```
 
 
-### 3.Common
+### 2.Common
 ```
   1.Decorators ใช้เพื่อ เพิ่ม Metadata. เช่น @GetUser()
   2.Filters ใช้เพื่อจัดการ Excetions ทั้ง app 
@@ -22,21 +22,18 @@
   6.Utils  function ช่วยต่างๆ
 ```
 
-### 4.Configuration
+### 3.Configuration
 ```
 1.ใช้เพื่อ ดำหนดและ setting App และดึงค่า .env มาใช้
 ```
 
-### 5.Prima
+### 4.Prima
 ```
 1.กำหนด migration
 2.กำหนด data base schema
 ```
 
-### 6.Env เพื่อ กำหนด config ต่างๆ
-
-### 6.Env เพื่อ กำหนด config ต่างๆ
-
+### 5.Env เพื่อ กำหนด config ต่างๆ
 
 ### Structure
 ![alt text](<Pasted Graphic.png>)
