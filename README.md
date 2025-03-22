@@ -22,14 +22,12 @@
   6.Utils  function ช่วยต่างๆ
 ```
 
-### 4.Common
-#### Configuration  
+### 4.Configuration
 ```
 1.ใช้เพื่อ ดำหนดและ setting App และดึงค่า .env มาใช้
 ```
 
-### 5.Common
-#### Configuration  
+### 5.Prima
 ```
 1.กำหนด migration
 2.กำหนด data base schema
